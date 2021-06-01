@@ -1,1 +1,1 @@
-[![](./assets/Git-Logo-Black.png)](https://geek-trip.ru/wp-content/uploads/2020/10/bkdtyjp5l4a_1_-removebg-preview.png)
+[![]([./assets/Git-Logo-Black.png](https://geek-trip.ru/wp-content/uploads/2020/10/bkdtyjp5l4a_1_-removebg-preview.png))](/page/index.html)
